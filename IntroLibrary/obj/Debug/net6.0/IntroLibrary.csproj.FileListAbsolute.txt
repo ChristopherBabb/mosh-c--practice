@@ -1,0 +1,12 @@
+/home/chris/VSCodeIntroSln/IntroLibrary/bin/Debug/net6.0/IntroLibrary.deps.json
+/home/chris/VSCodeIntroSln/IntroLibrary/bin/Debug/net6.0/IntroLibrary.dll
+/home/chris/VSCodeIntroSln/IntroLibrary/bin/Debug/net6.0/ref/IntroLibrary.dll
+/home/chris/VSCodeIntroSln/IntroLibrary/bin/Debug/net6.0/IntroLibrary.pdb
+/home/chris/VSCodeIntroSln/IntroLibrary/obj/Debug/net6.0/IntroLibrary.csproj.AssemblyReference.cache
+/home/chris/VSCodeIntroSln/IntroLibrary/obj/Debug/net6.0/IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/VSCodeIntroSln/IntroLibrary/obj/Debug/net6.0/IntroLibrary.AssemblyInfoInputs.cache
+/home/chris/VSCodeIntroSln/IntroLibrary/obj/Debug/net6.0/IntroLibrary.AssemblyInfo.cs
+/home/chris/VSCodeIntroSln/IntroLibrary/obj/Debug/net6.0/IntroLibrary.csproj.CoreCompileInputs.cache
+/home/chris/VSCodeIntroSln/IntroLibrary/obj/Debug/net6.0/IntroLibrary.dll
+/home/chris/VSCodeIntroSln/IntroLibrary/obj/Debug/net6.0/ref/IntroLibrary.dll
+/home/chris/VSCodeIntroSln/IntroLibrary/obj/Debug/net6.0/IntroLibrary.pdb
